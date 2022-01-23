@@ -8,6 +8,7 @@ class NewJan16Practice2ApplicationTests {
 
 	@Test
 	void contextLoads() {
+	 System.out.println("hello first test");
 	}
 
 }
